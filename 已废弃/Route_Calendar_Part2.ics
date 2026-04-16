@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gemini CLI//Trip Calendar Part 2//EN
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+DTSTAMP:20260415T172103Z
+UID:20260506-trip-part2@gemini.cli
+SUMMARY:Day 18: 阿卡罗阿半日游 & 基督城
+DESCRIPTION:【驾车路线: 基督城 -> 阿卡罗阿 (超20km分段)】\nChristchurch CBD -> Tai Tapu(~20km) -> Little River(~15km) -> Hilltop Tavern(~20km) -> Akaroa(~25km)\nGoogle Maps: https://www.google.com/maps/dir/Christchurch+Central+City,+New+Zealand/Tai+Tapu,+New+Zealand/Little+River,+New+Zealand/Hilltop+Tavern,+New+Zealand/Akaroa,+New+Zealand\n\n【驾车路线: 阿卡罗阿 -> 基督城市区 -> 机场】\nAkaroa -> Christchurch Botanic Gardens(~80km) -> Cathedral Square -> Christchurch Airport\nGoogle Maps: https://www.google.com/maps/dir/Akaroa,+New+Zealand/Christchurch+Botanic+Gardens,+New+Zealand/Cathedral+Square,+Christchurch,+New+Zealand/Christchurch+Airport,+New+Zealand\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+DTSTAMP:20260415T172103Z
+UID:20260507-trip-part2@gemini.cli
+SUMMARY:Day 19: 飞抵布里斯班 & 黄金海岸自然日
+DESCRIPTION:【驾车路线: 布里斯班机场 -> 黄金海岸 -> Springbrook (超20km分段)】\nBrisbane Airport -> Springwood(~35km) -> Coomera(~35km) -> Broadbeach(~25km) -> Mudgeeraba(~15km) -> Natural Bridge(~25km) -> Best Of All Lookout(~15km) -> Purling Brook Falls(~15km) -> Burleigh Heads(~35km)\nGoogle Maps: https://www.google.com/maps/dir/Brisbane+Airport,+QLD/Springwood,+QLD/Coomera,+QLD/Broadbeach,+QLD/Mudgeeraba,+QLD/Natural+Bridge,+Springbrook,+QLD/Best+Of+All+Lookout,+QLD/Purling+Brook+Falls,+QLD/Burleigh+Heads,+QLD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+DTSTAMP:20260415T172103Z
+UID:20260508-trip-part2@gemini.cli
+SUMMARY:Day 20: 黄金海岸 海滩城市日
+DESCRIPTION:【驾车路线: 黄金海岸海滩 (近距离)】\nBurleigh Head National Park -> Surfers Paradise Beach -> SkyPoint Observation Deck -> Snapper Rocks, Coolangatta -> Kirra Beach -> Broadbeach\nGoogle Maps: https://www.google.com/maps/dir/Burleigh+Head+National+Park,+QLD/Surfers+Paradise+Beach,+QLD/SkyPoint+Observation+Deck,+QLD/Snapper+Rocks,+Coolangatta,+QLD/Kirra+Beach,+QLD/Broadbeach,+QLD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+DTSTAMP:20260415T172103Z
+UID:20260509-trip-part2@gemini.cli
+SUMMARY:Day 21: Lone Pine 考拉 & 布里斯班
+DESCRIPTION:【驾车路线: 黄金海岸 -> Lone Pine -> 布里斯班机场 (超20km分段)】\nBroadbeach -> Coomera(~30km) -> Springwood(~35km) -> Lone Pine Koala Sanctuary(~25km) -> Brisbane Airport(~25km)\nGoogle Maps: https://www.google.com/maps/dir/Broadbeach,+QLD/Coomera,+QLD/Springwood,+QLD/Lone+Pine+Koala+Sanctuary,+QLD/Brisbane+Airport,+QLD\n\n【市区交通路线: 布里斯班市区】\nBrisbane Airport -> South Bank Parklands -> Story Bridge -> Mt Coot-tha Lookout -> Eat Street Northshore\nGoogle Maps: https://www.google.com/maps/dir/Brisbane+Airport,+QLD/South+Bank+Parklands,+QLD/Story+Bridge,+Brisbane,+QLD/Mt+Coot-tha+Lookout,+QLD/Eat+Street+Northshore,+QLD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+DTSTAMP:20260415T172103Z
+UID:20260510-trip-part2@gemini.cli
+SUMMARY:Day 22: 离境
+DESCRIPTION:【市区交通路线: 离境】\nBrisbane CBD -> Brisbane Airport\nGoogle Maps: https://www.google.com/maps/dir/Brisbane+CBD,+QLD/Brisbane+Airport,+QLD\n
+END:VEVENT
+END:VCALENDAR

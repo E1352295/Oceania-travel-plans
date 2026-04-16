@@ -1,0 +1,80 @@
+{
+  "mcpServers": {
+    "google-calendar": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@cocal/google-calendar-mcp"
+      ],
+      "env": {
+        "GOOGLE_API_KEY": "AIzaSyAj8kEha2qg1efyNqEXr2BGgsQ4EkUbOLg"
+      }
+    },
+    "google-maps": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-google-maps"
+      ],
+      "env": {
+        "GOOGLE_MAPS_API_KEY": "AIzaSyAj8kEha2qg1efyNqEXr2BGgsQ4EkUbOLg"
+      }
+    },
+    "google-search": {
+      "command": "node",
+      "args": [
+        "C:/Users/22601/mcp/mcp-google-custom-search-server/build/index.js"
+      ],
+      "env": {
+        "GOOGLE_API_KEY": "AIzaSyAj8kEha2qg1efyNqEXr2BGgsQ4EkUbOLg",
+        "GOOGLE_SEARCH_ENGINE_ID": "22bd73593c1fe4a33"
+      }
+    },
+    "weather": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@tristau/openweathermap-mcp",
+        "--apikey",
+        "a0953e3c0de4c88b7f960a6938ebd80c"
+      ]
+    },
+    "currency-conversion": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://currency-mcp.wesbos.com/sse"
+      ]
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:/Users/22601/Documents",
+        "F:/BaiduSyncdisk/李云帆简历原件"
+      ]
+    },
+    "fetch": {
+      "command": "C:/Users/22601/mcp/venvs/fetch-mcp/Scripts/python.exe",
+      "args": [
+        "-m",
+        "mcp_server_fetch"
+      ]
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    },
+    "social_video_uploader": {
+      "command": "C:/Users/22601/Videos/NotebookLM/social-auto-upload/.venv/Scripts/python.exe",
+      "args": [
+        "C:/Users/22601/Videos/NotebookLM/social-auto-upload/social_video_mcp_server.py"
+      ]
+    }
+  }
+}

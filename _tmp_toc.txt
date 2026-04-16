@@ -1,0 +1,29 @@
+1: # 大洋洲23天极致硬核深度游 — 完整行程 v3 (Route A)
+14: # 🇦🇺 第一阶段：维州与新州 (Day 0-8)
+18: ## Day 0 (4.18 周六) 抵达墨尔本 【独行】
+39: ## Day 1 (4.19 周日) 墨尔本城区漫游 & 夜赴Torquay 【独行】
+77: ## Day 2 (4.20 周一) 大洋路野生动物日 + 十二使徒日落 【独行】
+120: ## Day 3 (4.21 周二) 晨光12使徒 → 轮渡 → Seal Cruise → The Nobbies野生海豹 → 企鹅归巢 【独行】
+175: ## Day 4 (4.22 周三) PI收尾 → 返回墨尔本CBD下午游 【独行】
+210: ## Day 5 (4.23 周四) 墨尔本CBD收尾 → 提前还Turo → SkyBus到AVV → 飞悉尼 【独行】
+264: ## Day 6 (4.24 周五) 悉尼CityWalk Day 1：港湾与历史街区 【独行】
+297: ## Day 7 (4.25 周六) 悉尼CityWalk Day 2：海滩与悬崖 【独行】
+327: ## Day 8 (4.26 周日) 悉尼南线：Symbio野生动物 → 海崖大桥 → Kiama → 袋鼠谷 【✅ 同行开始】
+409: # 🇳🇿 第二阶段：南岛 — v3 Route A 扩展路线 (Day 9-18)
+430: ## Day 9 (4.27 周一) 飞抵皇后镇 【同行】
+457: ## Day 10 (4.28 周二) ⭐ NZONE跳伞 → Arrowtown秋叶 → Crown Range → 瓦纳卡 【同行】🆕
+489: ## Day 11 (4.29 周三) 🏔️ Roys Peak 冲顶 【同行】
+518: ## Day 12 (4.30 周四) 瓦纳卡 → 但尼丁 Central Otago公路旅行 🆕 【同行】
+556: ## Day 13 (5.1 周五) ⭐ 奥塔哥半岛 → 莫拉基巨石 → 奥马鲁蓝企鹅 🆕 【同行】
+597: ## Day 14 (5.2 周六) 奥马鲁 → Waitaki Valley → Mt Cook → ⭐ Tasman Glacier Heli-Hike →
+651: ## Day 15 (5.3 周日) ⭐ Hooker Valley Track + Lake Tekapo 【同行】🆕
+687: ## Day 16 (5.4 周一) Lake Tekapo → Kaikoura 🆕 【同行】
+723: ## Day 17 (5.5 周二) ⭐ Kaikoura 观鲸 → 基督城 + Christchurch Gondola 🆕 【同行】
+773: ## Day 18 (5.6 周三) ⭐ 阿卡罗阿半日游 → 基督城午后 → CHC机场酒店 🆕 【同行】
+892: # 🇦🇺 第三阶段：昆士兰 — 布里斯班 & 黄金海岸 (Day 19-22)
+900: ## Day 19 (5.7 周四) CHC飞BNE → 租车 → 黄金海岸·自然日 🆕 【同行】
+950: ## Day 20 (5.8 周五) 黄金海岸·海滩城市日 🆕 【同行】
+984: ## Day 21 (5.9 周六) Gold Coast → Lone Pine考拉 + Brisbane城市日 → 庆祝晚餐 🆕 【同行】
+1020: ## Day 22 (5.10 周日) 圆满离境 【同行】
+1035: # 费用总汇（v3 Route A）
+1137: # 完整预约清单（v3 Route A）
