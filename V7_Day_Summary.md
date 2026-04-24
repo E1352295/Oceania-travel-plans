@@ -103,7 +103,7 @@
 
 ## Day 9b · 4/27 (Wed) — ✈️ 皇后镇抵达侧
 
-**落地皇后镇，提车入住，湖边漫步**
+**落地皇后镇，提车入住 Adventure Queenstown Hostel，湖边漫步**
 
 🗺️ [Queenstown Airport → Queenstown CBD → Queenstown Lakefront](https://www.google.com/maps/dir/Queenstown+Airport+New+Zealand/Queenstown+CBD+New+Zealand/Queenstown+Lakefront+New+Zealand/)
 
@@ -111,7 +111,7 @@
 
 ## Day 10 · 4/28 (Thu) — 🪂 跳伞 + 阿罗镇 + 瓦纳卡
 
-**15000ft 跳伞 → 秋叶阿罗镇 → Crown Range → 孤独之树**
+**15000ft 跳伞 → 秋叶阿罗镇 → Crown Range → theBothy Wanaka**
 
 🗺️ [NZONE（跳伞）→ Arrowtown → Crown Range 顶 → Wanaka → That Wanaka Tree](https://www.google.com/maps/dir/NZONE+Skydive+35+Shotover+St+Queenstown+New+Zealand/Arrowtown+New+Zealand/Crown+Range+Summit+New+Zealand/Wanaka+New+Zealand/That+Wanaka+Tree+Wanaka+New+Zealand/)
 
@@ -119,7 +119,7 @@
 
 ## Day 11 · 4/29 (Fri) — ⛰️ Roys Peak 冲顶
 
-**16km 往返，1300m 爬升，湖顶日出**
+**16km 往返，1300m 爬升，湖顶日出；Wanaka 第2晚凭证暂未见**
 
 🗺️ [Wanaka → Roys Peak 登山口 → Wanaka（返回）](https://www.google.com/maps/dir/Wanaka+New+Zealand/Roys+Peak+Track+Wanaka+New+Zealand/Wanaka+New+Zealand/)
 
@@ -127,7 +127,7 @@
 
 ## Day 12 · 4/30 (Sat) — 🚗 瓦纳卡 → 但尼丁
 
-**9:30 慢出发，过 Cromwell，下午逛火车站**
+**9:30 慢出发，过 Cromwell，下午逛火车站，住 On Top Backpackers**
 
 🗺️ [Wanaka → Cromwell → 但尼丁火车站 → The Octagon → University of Otago](https://www.google.com/maps/dir/Wanaka+New+Zealand/Cromwell+New+Zealand/Dunedin+Railway+Station+New+Zealand/The+Octagon+Dunedin+New+Zealand/University+of+Otago+Dunedin+New+Zealand/)
 
@@ -135,7 +135,7 @@
 
 ## Day 13 · 5/1 (Sun) — 🦅 奥塔哥半岛 + 奥马鲁企鹅
 
-**Baldwin St → 信天翁 → 莫拉基巨石 → 蓝企鹅**
+**Baldwin St → 信天翁 → 莫拉基巨石 → Empire Hotel Backpackers + 蓝企鹅**
 
 🗺️ [但尼丁市区 → Baldwin Street → Pilots Beach → 皇家信天翁 → Moeraki Boulders → Oamaru Victorian Precinct → 蓝企鹅栖息地](https://www.google.com/maps/dir/Dunedin+Central+New+Zealand/Baldwin+Street+Dunedin+New+Zealand/Pilots+Beach+Taiaroa+Head+New+Zealand/Royal+Albatross+Centre+Taiaroa+Head+New+Zealand/Moeraki+Boulders+New+Zealand/Oamaru+Victorian+Precinct+New+Zealand/Oamaru+Blue+Penguin+Colony+New+Zealand/)
 
@@ -143,7 +143,7 @@
 
 ## Day 14 · 5/2 (Mon) — 🚁 奥马鲁 → 库克山冰川
 
-**Heli-Hike（NZ$946已付），冰川行走**
+**Heli-Hike（NZ$946已付），住 Haka House Mt Cook（当前凭证为 1 个 dorm 床位）**
 
 🗺️ [Oamaru → Twizel → Lake Pukaki → The Hermitage Hotel（Mt Cook Village）](https://www.google.com/maps/dir/Oamaru+New+Zealand/Twizel+New+Zealand/Lake+Pukaki+New+Zealand/The+Hermitage+Hotel+Mount+Cook+New+Zealand/)
 
@@ -151,7 +151,7 @@
 
 ## Day 15 · 5/3 (Tue) — 🥾 Hooker Valley + 蒂卡波观星
 
-**晨徒步悬挂桥，夜观南半球最佳星空**
+**晨徒步悬挂桥，晚住 Lakes Edge Tekapo**
 
 🗺️ [Mt Cook Village → Hooker Valley Track → Lake Tekapo → Church of Good Shepherd → Mt John Observatory](https://www.google.com/maps/dir/Mount+Cook+Village+New+Zealand/Hooker+Valley+Track+Mount+Cook+New+Zealand/Lake+Tekapo+New+Zealand/Church+of+the+Good+Shepherd+Tekapo+New+Zealand/Mount+John+Observatory+Lake+Tekapo+New+Zealand/)
 
@@ -159,7 +159,7 @@
 
 ## Day 16 · 5/4 (Wed) — 🚗 蒂卡波 → 凯库拉
 
-**穿越 Canterbury 平原，海豹半岛步道**
+**穿越 Canterbury 平原，住 Dusky Lodge，海豹半岛步道**
 
 🗺️ [Lake Tekapo → Kaikoura → Kaikoura Peninsula Walkway](https://www.google.com/maps/dir/Lake+Tekapo+New+Zealand/Kaikoura+New+Zealand/Kaikoura+Peninsula+Walkway+New+Zealand/)
 
@@ -167,7 +167,7 @@
 
 ## Day 17 · 5/5 (Thu) — 🐋 观鲸 + 基督城
 
-**07:15 出海观鲸，下午缆车 + 新摄政街**
+**07:15 出海观鲸，下午缆车 + 新摄政街；Christchurch 市区住宿凭证暂未见**
 
 🗺️ [Whale Watch Kaikoura → 基督城 → Christchurch Gondola → New Regent Street → Riverside Market](https://www.google.com/maps/dir/Whale+Watch+Kaikoura+New+Zealand/Christchurch+New+Zealand/Christchurch+Gondola+New+Zealand/New+Regent+Street+Christchurch+New+Zealand/Riverside+Market+Christchurch+New+Zealand/)
 
@@ -175,7 +175,7 @@
 
 ## Day 18 · 5/6 (Wed) — 🇫🇷 阿卡罗阿 + 基督城 + 机场
 
-**法式小镇 → Hagley 公园 → 博物馆 → 还车飞前**
+**法式小镇 → Hagley 公园 → 博物馆 → LyLo Christchurch 机场过夜**
 
 🗺️ [基督城 → Akaroa → Hagley Park → Canterbury Museum → Cathedral Square → CHC 机场](https://www.google.com/maps/dir/Christchurch+New+Zealand/Akaroa+New+Zealand/Hagley+Park+Christchurch+New+Zealand/Canterbury+Museum+Christchurch+New+Zealand/Cathedral+Square+Christchurch+New+Zealand/Christchurch+Airport+New+Zealand/)
 
