@@ -57,9 +57,9 @@
 
 ## Day 5b · 4/23 (Sat) — ✈️ 悉尼抵达侧
 
-**落地 → YHA → Chinatown → Darling Harbour 夜游**
+**落地 → YHA → 直接休息**
 
-🗺️ [Sydney Airport T2 → YHA Sydney Central → Chinatown → Darling Harbour](https://www.google.com/maps/dir/Sydney+Airport+Terminal+2+NSW/11+Rawson+Place+Sydney+NSW/Dixon+Street+Chinatown+Sydney+NSW/Darling+Harbour+Sydney+NSW/)
+🗺️ [Sydney Airport T2 → YHA Sydney Central](https://www.google.com/maps/dir/Sydney+Airport+Terminal+2+NSW/11+Rawson+Place+Sydney+NSW/)
 
 ---
 
@@ -74,13 +74,13 @@
 ---
 
 
-## Day 7 · 4/25 (Sat) — 🎖️ 晨跑 + ANZAC + The Rocks
+## Day 7 · 4/25 (Sat) — 🎖️ ANZAC + 街头人文 CityWalk
 
-**晨跑热身，9:00-11:00 观礼，下午走 Harbour Bridge / The Rocks 人文线**
+**7:30 晨跑，9:00-11:00 观礼，下午走 George St / Redfern / The Rocks，夜里接 Chinatown + Newtown**
 
-🗺️ A [YHA → Circular Quay → The Rocks → Barangaroo Reserve → Darling Harbour → Central](https://www.google.com/maps/dir/11+Rawson+Place+Sydney+NSW/Circular+Quay+Sydney+NSW/The+Rocks+Sydney+NSW/Barangaroo+Reserve+Sydney+NSW/Darling+Harbour+Sydney+NSW/Central+Station+Sydney+NSW/)
+🗺️ A [YHA → George Street Sydney → Circular Quay → The Rocks → Barangaroo Reserve → Darling Harbour → Central](https://www.google.com/maps/dir/11+Rawson+Place+Sydney+NSW/George+Street+Sydney+NSW/Circular+Quay+Sydney+NSW/The+Rocks+Sydney+NSW/Barangaroo+Reserve+Sydney+NSW/Darling+Harbour+Sydney+NSW/Central+Station+Sydney+NSW/)
 
-🗺️ B [YHA → Hyde Park → The Rocks Discovery Museum → Cadmans Cottage → Dawes Point → Observatory Hill → Millers Point → Chinatown → Darling Harbour](https://www.google.com/maps/dir/11+Rawson+Place+Sydney+NSW/Hyde+Park+Sydney+NSW/The+Rocks+Discovery+Museum+Sydney+NSW/Cadmans+Cottage+Sydney+NSW/Dawes+Point+NSW/Observatory+Hill+Sydney+NSW/Millers+Point+NSW/Chinatown+Sydney+NSW/Darling+Harbour+Sydney+NSW/)
+🗺️ B [YHA → Hyde Park → QVB → Town Hall Sydney → Redfern NSW → The Rocks Discovery Museum → Observatory Hill → Chinatown Sydney → Darling Harbour → Newtown NSW](https://www.google.com/maps/dir/11+Rawson+Place+Sydney+NSW/Hyde+Park+Sydney+NSW/Queen+Victoria+Building+Sydney+NSW/Town+Hall+Sydney+NSW/Redfern+NSW/The+Rocks+Discovery+Museum+Sydney+NSW/Observatory+Hill+Sydney+NSW/Chinatown+Sydney+NSW/Darling+Harbour+Sydney+NSW/Newtown+NSW/)
 
 ---
 
