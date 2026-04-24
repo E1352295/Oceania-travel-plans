@@ -10,9 +10,8 @@
 | 时间 | 安排 | 说明 |
 |------|------|------|
 | 07:00 | 起床 + 换跑装 | 今天按不洗澡版本走 |
-| 07:30-08:15 | 晨跑：YHA → George St → Circular Quay → The Rocks → Barangaroo → Darling Harbour → Central | 约 4.8km |
-| 08:15-08:40 | 回 YHA 湿巾擦汗 + 换 T 恤 + 补给 | 不洗澡，轻量切换 |
-| 08:45-09:00 | 去 Hyde Park 北段 / St James 占位 | 9点前到位 |
+| 07:30-08:20 | 晨跑：YHA → George St → Circular Quay → The Rocks → Barangaroo → Darling Harbour | 约 4.8km |
+| 08:20-09:00 | Darling Harbour → Hyde Park 北段 / St James 占位 | 不回 YHA，直接去观礼点 |
 | 09:00-11:00 | 看 ANZAC Day March 前两小时 | 沿 Elizabeth Street 观礼 |
 | 11:05-11:50 | George St → QVB → Town Hall | 老主街 + 历史建筑骨架 |
 | 11:50-12:30 | 轻午餐 + 咖啡 | Town Hall / QVB 一带 |
@@ -28,7 +27,7 @@
 | 21:50-23:15 | Newtown King St 酒吧 / 街头夜生活（可选） | 年轻文化、街头艺术、夜生活气氛 |
 
 ## 为什么这样排最顺
-- 你 `7:30` 跑完回到 Central，一路本来就在酒店附近，不洗澡也能用湿巾 + 换衣快速切到 ANZAC 模式。
+- 你 `7:30` 跑完后直接收在 Darling Harbour，顺路切去 Hyde Park / St James，比回 YHA 再折返更省动作。
 - `9:00-11:00` 看完后，最近、最有价值的不是立刻折返远郊，而是顺走 **George St / QVB / Town Hall**，先看悉尼最老的城市主脉。
 - `Redfern` 放在中午，是因为它离 Central 最近，而且你想要的“土著历史 + 街头艺术 + 社区质感”这里最集中。
 - `The Rocks / Millers Point` 放到下午更合理，街区、博物馆和港湾线能连成一条，不会来回折返。
