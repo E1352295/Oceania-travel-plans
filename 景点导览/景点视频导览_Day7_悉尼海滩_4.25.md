@@ -3,6 +3,12 @@
 ## 先说结论
 - **ANZAC Day March 普通观众不用报名。**
 - 官方公开信息是 `2026-04-25 09:00` 开始，约 `12:30` 结束。
+- 官方公开路线是：**从 `Elizabeth St / Martin Place` 起 march，沿 `Elizabeth Street` 向南，到 `Elizabeth St / Liverpool Street` 结束**，随后衔接 `Anzac Memorial / Hyde Park South` 一带纪念环节。
+- 这也是为什么你这版观礼点放在 **Hyde Park 北段 / St James**：它正好卡在主路线中段，能看完整 `9-11` 主体队列，又比终点附近更不挤。
+- 官方链接：
+  [NSW Veterans](https://www.veterans.nsw.gov.au/commemoration/anzac-day/)
+  [City of Sydney](https://whatson.cityofsydney.nsw.gov.au/events/anzac-day-sydney-cbd-march)
+  [TfNSW 2026 路封图](https://transportnsw.info/document/8603/AnzacDay2026-Road_Closures_Cleaways_Map_0.pdf)
 - 你这版把 `09:00-11:00` 锁死不动，其他内容都围绕它来排。
 - 今天不硬塞 Paddington / Potts Point / St Peter's Mews，全日优先保留 **George St + Redfern + The Rocks + Chinatown + Newtown** 这条最顺的人文线。
 
@@ -11,8 +17,8 @@
 |------|------|------|
 | 07:00 | 起床 + 换跑装 | 今天按不洗澡版本走 |
 | 07:30-08:20 | 晨跑：YHA → George St → Circular Quay → The Rocks → Barangaroo → Darling Harbour | 约 4.8km |
-| 08:20-09:00 | Darling Harbour → Hyde Park 北段 / St James 占位 | 不回 YHA，直接去观礼点 |
-| 09:00-11:00 | 看 ANZAC Day March 前两小时 | 沿 Elizabeth Street 观礼 |
+| 08:20-09:00 | Darling Harbour → Hyde Park 北段 / St James 占位 | 不回 YHA，直接去 `Elizabeth St` 主路线中段 |
+| 09:00-11:00 | 看 ANZAC Day March 前两小时 | 官方路线 `Elizabeth St / Martin Place → Elizabeth St / Liverpool St`；你站中段看主体队列最均衡 |
 | 11:05-11:50 | George St → QVB → Town Hall | 老主街 + 历史建筑骨架 |
 | 11:50-12:30 | 轻午餐 + 咖啡 | Town Hall / QVB 一带 |
 | 12:45-13:35 | Redfern / Cleveland St 街头艺术 | 土著历史、社区感、壁画线索 |
