@@ -87,7 +87,7 @@
 
 ## Day 8 · 4/26 (Tue) — 🚗 悉尼南线 MX5
 
-**必须先把大件寄在机场宜必思前台（MX-5 后备箱装不下；不成就改 T2） → Sea Cliff 晨光 → Symbio → Kiama / Minnamurra → Kiama Harbour 晚餐后再回**
+**必须先把大件寄在机场宜必思前台（MX-5 后备箱装不下；不成就改 T2） → Sea Cliff / Kiama / Gerringong / Minnamurra 都放宽一点 → Kiama Harbour 晚餐后再回**
 
 🗺️ [Dollar Mascot（提车）→ Sea Cliff Bridge → Symbio → Kiama → Gerringong → Minnamurra Rainforest → 悉尼](https://www.google.com/maps/dir/48+Ross+Smith+Ave+Mascot+NSW/Sea+Cliff+Bridge+Coalcliff+NSW/Symbio+Wildlife+Zoo+Helensburgh+NSW/Kiama+NSW/Gerringong+NSW/Minnamurra+Rainforest+Budderoo+National+Park+NSW/Sydney+NSW/)
 
