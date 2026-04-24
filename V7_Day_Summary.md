@@ -1,4 +1,4 @@
-# V7 Day Summary — 每日关键点地图路线
+﻿# V7 Day Summary — 每日关键点地图路线
 
 > 规则：每日一个日程（≤10点/链接，超出拆A/B批次）；有航班的日期拆为出发侧 + 抵达侧两个日程。
 > 点击链接即可在 Google Maps 中打开完整路线。
@@ -63,23 +63,27 @@
 
 ---
 
-## Day 6 · 4/24 (Sun) — 🏙️ 悉尼 CityWalk
+## Day 6 · 4/24 (Fri) — 🏃 晨跑 + Manly / Bondi
 
-**环港绕城大步行**
+**海港经典晨跑，白天继续北线/东线双海滩**
 
-🗺️ A [YHA → Circular Quay → The Rocks → 海港大桥 → 歌剧院 → Mrs Macquaries → Art Gallery NSW → Hyde Park → St Marys → QVB](https://www.google.com/maps/dir/11+Rawson+Place+Sydney+NSW/Circular+Quay+Sydney+NSW/The+Rocks+Sydney+NSW/Sydney+Harbour+Bridge+NSW/Sydney+Opera+House+NSW/Mrs+Macquaries+Chair+Sydney+NSW/Art+Gallery+of+New+South+Wales+Sydney+NSW/Hyde+Park+Sydney+NSW/St+Marys+Cathedral+Sydney+NSW/Queen+Victoria+Building+Sydney+NSW/)
+🗺️ A [Central → Hyde Park → St Marys → Mrs Macquaries Chair → Royal Botanic Garden → Sydney Opera House → Central](https://www.google.com/maps/dir/Central+Station+Sydney+NSW/Hyde+Park+Sydney+NSW/St+Marys+Cathedral+Sydney+NSW/Mrs+Macquaries+Chair+Sydney+NSW/Royal+Botanic+Garden+Sydney+NSW/Sydney+Opera+House+NSW/Central+Station+Sydney+NSW/)
 
-🗺️ B [QVB → Darling Harbour → Barangaroo Reserve](https://www.google.com/maps/dir/Queen+Victoria+Building+Sydney+NSW/Darling+Harbour+Sydney+NSW/Barangaroo+Reserve+Sydney+NSW/)
+🗺️ B [YHA → Circular Quay → Manly Beach → Shelly Beach → Bondi Beach → Coogee Beach](https://www.google.com/maps/dir/11+Rawson+Place+Sydney+NSW/Circular+Quay+Sydney+NSW/Manly+Beach+Sydney+NSW/Shelly+Beach+Manly+Sydney+NSW/Bondi+Beach+Sydney+NSW/Coogee+Beach+Sydney+NSW/)
+
+---
+
+
+## Day 7 · 4/25 (Sat) — 🎖️ 晨跑 + ANZAC + The Rocks
+
+**晨跑热身，9:00-11:00 观礼，下午走 Harbour Bridge / The Rocks 人文线**
+
+🗺️ A [YHA → Circular Quay → The Rocks → Barangaroo Reserve → Darling Harbour → Central](https://www.google.com/maps/dir/11+Rawson+Place+Sydney+NSW/Circular+Quay+Sydney+NSW/The+Rocks+Sydney+NSW/Barangaroo+Reserve+Sydney+NSW/Darling+Harbour+Sydney+NSW/Central+Station+Sydney+NSW/)
+
+🗺️ B [YHA → Hyde Park → The Rocks Discovery Museum → Cadmans Cottage → Dawes Point → Observatory Hill → Millers Point → Chinatown → Darling Harbour](https://www.google.com/maps/dir/11+Rawson+Place+Sydney+NSW/Hyde+Park+Sydney+NSW/The+Rocks+Discovery+Museum+Sydney+NSW/Cadmans+Cottage+Sydney+NSW/Dawes+Point+NSW/Observatory+Hill+Sydney+NSW/Millers+Point+NSW/Chinatown+Sydney+NSW/Darling+Harbour+Sydney+NSW/)
 
 ---
 
-## Day 7 · 4/25 (Mon) — 🏖️ Manly + Bondi
-
-**渡轮过港，双滩连走**
-
-🗺️ [YHA → Circular Quay → Manly Beach → Shelly Beach → Bondi Beach → Coogee Beach](https://www.google.com/maps/dir/11+Rawson+Place+Sydney+NSW/Circular+Quay+Sydney+NSW/Manly+Beach+Sydney+NSW/Shelly+Beach+Manly+Sydney+NSW/Bondi+Beach+Sydney+NSW/Coogee+Beach+Sydney+NSW/)
-
----
 
 ## Day 8 · 4/26 (Tue) — 🚗 悉尼南线 MX5
 
