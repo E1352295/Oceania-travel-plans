@@ -1,0 +1,1295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude Code//Trip Calendar V7 Full Maps//EN
+BEGIN:VTIMEZONE
+TZID:Australia/Melbourne
+BEGIN:DAYLIGHT
+DTSTART:20261004T020000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=10
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20260405T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+BEGIN:DAYLIGHT
+DTSTART:20261004T020000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=10
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20260405T030000
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Australia/Brisbane
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+TZNAME:AEST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Pacific/Auckland
+BEGIN:DAYLIGHT
+DTSTART:20260927T020000
+TZOFFSETFROM:+1200
+TZOFFSETTO:+1300
+TZNAME:NZDT
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=9
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20260405T030000
+TZOFFSETFROM:+1300
+TZOFFSETTO:+1200
+TZNAME:NZST
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260418T231000
+DTEND;TZID=Australia/Melbourne:20260418T233000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-0@claude.code
+SUMMARY:🛬 航班抵达: MNL → MEL (5J 49)
+DESCRIPTION:Skybus到CBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T000000
+DTEND;TZID=Australia/Melbourne:20260419T003000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-1@claude.code
+SUMMARY:🚌 Skybus: MEL机场 → 墨尔本CBD
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Melbourne+Airport+VIC&destination=Southern+Cross+Station+Melbourne&travelmode=transit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T004500
+DTEND;TZID=Australia/Melbourne:20260419T010000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-2@claude.code
+SUMMARY:🏨 入住: Little Drifter
+DESCRIPTION:步行入住
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T083000
+DTEND;TZID=Australia/Melbourne:20260419T090000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-3@claude.code
+SUMMARY:🚶 步行: 酒店 → Southern Cross Station (存行李)
+DESCRIPTION:退房 & 存行李\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=167+Franklin+St+Melbourne&destination=Southern+Cross+Station+Melbourne&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T090000
+DTEND;TZID=Australia/Melbourne:20260419T094500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-4@claude.code
+SUMMARY:🚶 步行: State Library Victoria
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Southern+Cross+Station+Melbourne&destination=State+Library+Victoria+Melbourne&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T094500
+DTEND;TZID=Australia/Melbourne:20260419T101500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-5@claude.code
+SUMMARY:🚶 步行: Melbourne Central 玻璃穹顶
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=State+Library+Victoria+Melbourne&destination=Melbourne+Central+Melbourne&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T101500
+DTEND;TZID=Australia/Melbourne:20260419T113000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-6@claude.code
+SUMMARY:🚶 步行: Queen Victoria Market (早午餐)
+DESCRIPTION:周日10:00全开，边吃边逛\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Melbourne+Central+Melbourne&destination=Queen+Victoria+Market+Melbourne&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T113000
+DTEND;TZID=Australia/Melbourne:20260419T121500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-7@claude.code
+SUMMARY:🚶 步行: Royal/Block Arcade
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Queen+Victoria+Market+Melbourne&destination=Royal+Arcade+Melbourne&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T121500
+DTEND;TZID=Australia/Melbourne:20260419T124500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-8@claude.code
+SUMMARY:🚶 步行: Flinders Street Station
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Block+Arcade+Melbourne&destination=Flinders+Street+Station+Melbourne&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T124500
+DTEND;TZID=Australia/Melbourne:20260419T131500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-9@claude.code
+SUMMARY:🚶 步行: Federation Square
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Flinders+Street+Station+Melbourne&destination=Federation+Square+Melbourne&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T131500
+DTEND;TZID=Australia/Melbourne:20260419T134500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-10@claude.code
+SUMMARY:🚶 步行: Hosier Lane 涂鸦街
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Federation+Square+Melbourne&destination=Hosier+Lane+Melbourne&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T134500
+DTEND;TZID=Australia/Melbourne:20260419T151500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-11@claude.code
+SUMMARY:🚶 步行: NGV维多利亚国家美术馆
+DESCRIPTION:过河看展，留1.5h\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Hosier+Lane+Melbourne&destination=National+Gallery+of+Victoria+Melbourne&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T151500
+DTEND;TZID=Australia/Melbourne:20260419T170000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-12@claude.code
+SUMMARY:🚶 步行: Southbank Promenade → Docklands
+DESCRIPTION:水岸日落\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=National+Gallery+of+Victoria+Melbourne&destination=Melbourne+Docklands&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T183000
+DTEND;TZID=Australia/Melbourne:20260419T190000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-13@claude.code
+SUMMARY:🚕 打车/Uber: CBD → Mount Waverley
+DESCRIPTION:去取Turo车\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Melbourne+CBD&destination=80+Catherine+Ave+Mount+Waverley&travelmode=driving
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260419T193000
+DTEND;TZID=Australia/Melbourne:20260419T213000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-14@claude.code
+SUMMARY:🚗 驾车: Mount Waverley → Torquay
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Mount%20Waverley&destination=Torquay
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260420T070000
+DTEND;TZID=Australia/Melbourne:20260420T181500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-15@claude.code
+SUMMARY:🚗 驾车: 大洋路野生动物日 (Torquay → Port Campbell)
+DESCRIPTION:途经Aireys Inlet, Lorne, Kennett River考拉, Apollo Bay, Maits Rest, Cape Otway, 12使徒\n\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Torquay+VIC&destination=Port+Campbell+VIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260421T071500
+DTEND;TZID=Australia/Melbourne:20260421T095500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-16@claude.code
+SUMMARY:🚗 驾车: Port Campbell → Queenscliff码头
+DESCRIPTION:早出发，留足渡轮缓冲\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Port+Campbell+VIC&destination=Searoad+Ferries+Queenscliff+VIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260421T095500
+DTEND;TZID=Australia/Melbourne:20260421T102000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-17@claude.code
+SUMMARY:🚢 Searoad Ferries Check-in等候
+DESCRIPTION:09:55到码头，check-in截止10:20，25min真实缓冲\n📍 码头: https://www.google.com/maps/search/?api=1&query=Searoad+Ferries+Queenscliff+VIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260421T110000
+DTEND;TZID=Australia/Melbourne:20260421T114000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-18@claude.code
+SUMMARY:🚢 轮渡: Queenscliff → Sorrento
+DESCRIPTION:Searoad Ferries（上船后无需导航）\n📍 出发码头: https://www.google.com/maps/search/?api=1&query=Searoad+Ferries+Queenscliff+VIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260421T114000
+DTEND;TZID=Australia/Melbourne:20260421T132000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-19@claude.code
+SUMMARY:🚗 驾车: Sorrento → Cowes (Phillip Island)
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Sorrento&destination=Cowes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260421T140000
+DTEND;TZID=Australia/Melbourne:20260421T153000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-20@claude.code
+SUMMARY:🚤 游船: Phillip Island Seal Cruise
+DESCRIPTION:看野生海豹\n📍 集合: Cowes Jetty, 11-13 The Esplanade, Cowes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260421T153000
+DTEND;TZID=Australia/Melbourne:20260421T155500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-21@claude.code
+SUMMARY:🚗 驾车: Cowes → The Nobbies
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Cowes+Phillip+Island&destination=The+Nobbies+Phillip+Island
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260421T155500
+DTEND;TZID=Australia/Melbourne:20260421T170000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-22@claude.code
+SUMMARY:🚶 步行: The Nobbies 栈道观海豹
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=The+Nobbies+Phillip+Island+Victoria
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260421T170000
+DTEND;TZID=Australia/Melbourne:20260421T171000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-23@claude.code
+SUMMARY:🚗 驾车: The Nobbies → Penguin Parade
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=The+Nobbies+Phillip+Island&destination=Penguin+Parade+Phillip+Island
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260421T173000
+DTEND;TZID=Australia/Melbourne:20260421T183000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-24@claude.code
+SUMMARY:🐧 观赏: 企鹅归巢 (Penguins Plus)
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=Penguin+Parade+Phillip+Island+Victoria
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260421T183000
+DTEND;TZID=Australia/Melbourne:20260421T185000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-25@claude.code
+SUMMARY:🚗 驾车: 企鹅岛 → San Remo
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Penguin+Parade+Phillip+Island+Victoria&destination=San+Remo+VIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260422T080000
+DTEND;TZID=Australia/Melbourne:20260422T082000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-26@claude.code
+SUMMARY:🚗 驾车: San Remo → Churchill Island
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=San+Remo+Victoria&destination=Churchill+Island+Heritage+Farm+Phillip+Island
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260422T083000
+DTEND;TZID=Australia/Melbourne:20260422T100000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-27@claude.code
+SUMMARY:🚶 步行: Churchill Island 历史农场
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=Churchill+Island+Heritage+Farm+Phillip+Island
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260422T101500
+DTEND;TZID=Australia/Melbourne:20260422T103000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-28@claude.code
+SUMMARY:🚗 驾车: Churchill Island → 考拉保育中心
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Churchill+Island+Heritage+Farm+Phillip+Island&destination=Koala+Conservation+Reserve+Phillip+Island
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260422T103000
+DTEND;TZID=Australia/Melbourne:20260422T120000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-29@claude.code
+SUMMARY:🚶 步行: 考拉保育中心
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=Koala+Conservation+Reserve+Phillip+Island
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260422T120000
+DTEND;TZID=Australia/Melbourne:20260422T140000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-30@claude.code
+SUMMARY:🚗 驾车: 企鹅岛 → 墨尔本CBD
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Koala+Conservation+Reserve+Phillip+Island&destination=Melbourne+VIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260422T140000
+DTEND;TZID=Australia/Melbourne:20260422T160000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-31@claude.code
+SUMMARY:🚶 步行/电车: South Melbourne Market
+DESCRIPTION:周三08:00-16:00，14:00到只剩2h\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Melbourne+CBD&destination=South+Melbourne+Market+Victoria&travelmode=transit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260422T160000
+DTEND;TZID=Australia/Melbourne:20260422T173000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-32@claude.code
+SUMMARY:🚶 步行: Southbank Promenade + Flinders Ln
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=South+Melbourne+Market+Victoria&destination=Flinders+Lane+Melbourne&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260422T173000
+DTEND;TZID=Australia/Melbourne:20260422T190000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-33@claude.code
+SUMMARY:🚶 步行: Docklands Waterfront
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Flinders+Lane+Melbourne&destination=Melbourne+Docklands&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260423T083000
+DTEND;TZID=Australia/Melbourne:20260423T110000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-34@claude.code
+SUMMARY:🚶 步行: 墨尔本CBD漫步
+DESCRIPTION:Southern Cross取行李, Flinders Lane\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Southern+Cross+Station+Melbourne&destination=Flinders+Lane+Melbourne&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260423T110000
+DTEND;TZID=Australia/Melbourne:20260423T114000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-35@claude.code
+SUMMARY:🚗 驾车: 墨尔本CBD → Mount Waverley还车
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Melbourne+CBD&destination=80+Catherine+Ave+Mount+Waverley
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260423T115000
+DTEND;TZID=Australia/Melbourne:20260423T123500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-36@claude.code
+SUMMARY:🚆 火车: Mount Waverley → Southern Cross
+DESCRIPTION:Glen Waverley线，约45min，A$5 Myki\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Mount+Waverley+Station+Victoria&destination=Southern+Cross+Station+Melbourne&travelmode=transit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260423T131500
+DTEND;TZID=Australia/Melbourne:20260423T143000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-37@claude.code
+SUMMARY:🚌 SkyBus: Southern Cross → Avalon Airport
+DESCRIPTION:A$28/人，约72min直达\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Southern+Cross+Station+Melbourne&destination=Avalon+Airport+Victoria&travelmode=transit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Melbourne:20260423T164000
+DTEND;TZID=Australia/Sydney:20260423T181000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-38@claude.code
+SUMMARY:✈️ 航班: JQ610 (AVV → SYD)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260423T183000
+DTEND;TZID=Australia/Sydney:20260423T184500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-39@claude.code
+SUMMARY:🚆 火车: T8线 Mascot → Central
+DESCRIPTION:Opal A$4，约15min\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Mascot+Station+Sydney&destination=Central+Station+Sydney&travelmode=transit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260423T184500
+DTEND;TZID=Australia/Sydney:20260423T190000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-40@claude.code
+SUMMARY:🚶 步行: Central站 → YHA Sydney Central
+DESCRIPTION:步行2min\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Central+Station+Sydney&destination=YHA+Sydney+Central+11+Rawson+Place&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260423T193000
+DTEND;TZID=Australia/Sydney:20260423T210000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-41@claude.code
+SUMMARY:🚶 步行: 悉尼 Chinatown
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=YHA+Sydney+Central+11+Rawson+Place&destination=Dixon+Street+Chinatown+Sydney&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260423T210000
+DTEND;TZID=Australia/Sydney:20260423T230000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-42@claude.code
+SUMMARY:🚶 步行: Darling Harbour / The Rocks 夜生活
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Chinatown+Sydney&destination=Darling+Harbour+Sydney&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260424T080000
+DTEND;TZID=Australia/Sydney:20260424T081500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-43@claude.code
+SUMMARY:🚆 交通: 酒店 → Circular Quay
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=YHA+Sydney+Central+11+Rawson+Place&destination=Circular+Quay+Sydney&travelmode=transit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260424T081500
+DTEND;TZID=Australia/Sydney:20260424T094500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-44@claude.code
+SUMMARY:🚶 步行: Circular Quay → The Rocks
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Circular+Quay+Sydney&destination=The+Rocks+Sydney&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260424T094500
+DTEND;TZID=Australia/Sydney:20260424T103000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-45@claude.code
+SUMMARY:🚶 步行: The Rocks → 悉尼海港大桥
+DESCRIPTION:走人行道（东侧免费）\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=The+Rocks+Sydney&destination=Sydney+Harbour+Bridge&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260424T103000
+DTEND;TZID=Australia/Sydney:20260424T104500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-46@claude.code
+SUMMARY:🚆 火车: Milsons Point → Circular Quay
+DESCRIPTION:1站，Opal\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Milsons+Point+Station+Sydney&destination=Circular+Quay+Station+Sydney&travelmode=transit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260424T110000
+DTEND;TZID=Australia/Sydney:20260424T120000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-47@claude.code
+SUMMARY:🚶 步行: Circular Quay → 悉尼歌剧院
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Circular+Quay+Sydney&destination=Sydney+Opera+House&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260424T130000
+DTEND;TZID=Australia/Sydney:20260424T140000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-48@claude.code
+SUMMARY:🚶 步行: 歌剧院 → 皇家植物园 → Mrs Macquaries Chair
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Sydney+Opera+House&destination=Mrs+Macquaries+Chair+Sydney&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260424T140000
+DTEND;TZID=Australia/Sydney:20260424T144500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-49@claude.code
+SUMMARY:🚶 步行: Mrs Macquaries Chair → Art Gallery of NSW
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Mrs+Macquaries+Chair+Sydney&destination=Art+Gallery+of+New+South+Wales+Sydney&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260424T144500
+DTEND;TZID=Australia/Sydney:20260424T153000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-50@claude.code
+SUMMARY:🚶 步行: Art Gallery → Hyde Park → St Marys Cathedral
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Art+Gallery+of+New+South+Wales+Sydney&destination=St+Marys+Cathedral+Sydney&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260424T153000
+DTEND;TZID=Australia/Sydney:20260424T163000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-51@claude.code
+SUMMARY:🚶 步行: St Marys → QVB → Strand Arcade
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=St+Marys+Cathedral+Sydney&destination=Strand+Arcade+Sydney&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260424T163000
+DTEND;TZID=Australia/Sydney:20260424T170000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-52@claude.code
+SUMMARY:🚶 步行: QVB → Darling Harbour
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Queen+Victoria+Building+Sydney&destination=Darling+Harbour+Sydney&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260424T170000
+DTEND;TZID=Australia/Sydney:20260424T180000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-53@claude.code
+SUMMARY:🚶 步行: Darling Harbour → Barangaroo Reserve
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Darling+Harbour+Sydney&destination=Barangaroo+Reserve+Sydney&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260425T083000
+DTEND;TZID=Australia/Sydney:20260425T090000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-54@claude.code
+SUMMARY:🚢 渡轮: Circular Quay → Manly (F1)
+DESCRIPTION:30min横穿悉尼港\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Circular+Quay+Sydney&destination=Manly+Wharf+Sydney&travelmode=transit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260425T090000
+DTEND;TZID=Australia/Sydney:20260425T093000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-55@claude.code
+SUMMARY:🚶 步行: Manly Beach
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=Manly+Beach+Sydney
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260425T093000
+DTEND;TZID=Australia/Sydney:20260425T101500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-56@claude.code
+SUMMARY:🚶 步行: Manly → Shelly Beach
+DESCRIPTION:20min海岸步道\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Manly+Beach+Sydney&destination=Shelly+Beach+Manly+Sydney&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260425T113000
+DTEND;TZID=Australia/Sydney:20260425T120000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-57@claude.code
+SUMMARY:🚢 渡轮: Manly → Circular Quay
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Manly+Wharf+Sydney&destination=Circular+Quay+Sydney&travelmode=transit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260425T120000
+DTEND;TZID=Australia/Sydney:20260425T123000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-58@claude.code
+SUMMARY:🚆🚌 交通: Circular Quay → Bondi Beach
+DESCRIPTION:火车到Bondi Junction，转333巴士\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Circular+Quay+Station+Sydney&destination=Bondi+Beach+Sydney&travelmode=transit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260425T123000
+DTEND;TZID=Australia/Sydney:20260425T130000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-59@claude.code
+SUMMARY:🚶 步行: Bondi Beach
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=Bondi+Beach+Sydney
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260425T130000
+DTEND;TZID=Australia/Sydney:20260425T153000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-60@claude.code
+SUMMARY:🚶 步行: Bondi to Coogee Coastal Walk
+DESCRIPTION:6km悬崖步道，经Tamarama/Bronte/Clovelly\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Bondi+Beach+Sydney&destination=Coogee+Beach+Sydney&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260425T160000
+DTEND;TZID=Australia/Sydney:20260425T163000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-61@claude.code
+SUMMARY:🚌 巴士: Coogee Beach → 市区
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Coogee+Beach+Sydney&destination=Sydney+CBD&travelmode=transit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T061500
+DTEND;TZID=Australia/Sydney:20260426T063000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-62@claude.code
+SUMMARY:🚶 步行: YHA → Central Station
+DESCRIPTION:步行2min\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=YHA+Sydney+Central+11+Rawson+Place&destination=Central+Station+Sydney&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T063000
+DTEND;TZID=Australia/Sydney:20260426T064500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-63@claude.code
+SUMMARY:🚆 火车: T8线 Central → Mascot
+DESCRIPTION:Opal A$4，约15min\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Central+Station+Sydney&destination=Mascot+Station+Sydney&travelmode=transit
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T064500
+DTEND;TZID=Australia/Sydney:20260426T070000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-64@claude.code
+SUMMARY:🚶🚕 交通: Mascot站 → Dollar悉尼机场店 (提车MX5)
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Mascot+Station+Sydney&destination=48+Ross+Smith+Ave+Mascot+NSW&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T073000
+DTEND;TZID=Australia/Sydney:20260426T081500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-65@claude.code
+SUMMARY:🚗 驾车: Mascot → Sea Cliff Bridge (Bald Hill)
+DESCRIPTION:晨光最佳，先去再折回Symbio\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Mascot+NSW&destination=Sea+Cliff+Bridge+Coalcliff+NSW
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T081500
+DTEND;TZID=Australia/Sydney:20260426T091500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-66@claude.code
+SUMMARY:🚶 步行: Sea Cliff Bridge + Bald Hill Lookout
+DESCRIPTION:08:15晨光绝佳，悬崖步道拍摄黄金时段\n📍 地点: https://www.google.com/maps/search/?api=1&query=Sea+Cliff+Bridge+Coalcliff+NSW
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T091500
+DTEND;TZID=Australia/Sydney:20260426T093000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-67@claude.code
+SUMMARY:🚗 驾车: Sea Cliff Bridge → Symbio Zoo
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Sea+Cliff+Bridge+Coalcliff+NSW&destination=Symbio+Wildlife+Zoo+Helensburgh+NSW
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T093000
+DTEND;TZID=Australia/Sydney:20260426T120000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-68@claude.code
+SUMMARY:🚶 步行: Symbio Wildlife Gardens
+DESCRIPTION:09:30准点开门，看动物2.5h\n📍 地点: https://www.google.com/maps/search/?api=1&query=Symbio+Wildlife+Zoo+Helensburgh+NSW
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T120000
+DTEND;TZID=Australia/Sydney:20260426T124500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-69@claude.code
+SUMMARY:🚗 驾车: Symbio → Kiama
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Symbio+Wildlife+Zoo+Helensburgh+NSW&destination=Kiama+NSW
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T124500
+DTEND;TZID=Australia/Sydney:20260426T141500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-70@claude.code
+SUMMARY:🚶 步行: Kiama Blowhole
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=Kiama+Blowhole+NSW
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T141500
+DTEND;TZID=Australia/Sydney:20260426T142500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-71@claude.code
+SUMMARY:🚗 驾车: Kiama → Gerringong
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Kiama&destination=Gerringong
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T142500
+DTEND;TZID=Australia/Sydney:20260426T150000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-72@claude.code
+SUMMARY:🚶 步行: Gerringong 悬崖 + Werri Beach
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=Gerringong+Lookout+NSW
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T150000
+DTEND;TZID=Australia/Sydney:20260426T152000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-73@claude.code
+SUMMARY:🚗 驾车: Gerringong → Minnamurra Rainforest
+DESCRIPTION:18km，约20min\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Gerringong+NSW&destination=Minnamurra+Rainforest+Budderoo+National+Park+NSW
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T152000
+DTEND;TZID=Australia/Sydney:20260426T170000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-74@claude.code
+SUMMARY:🌿 步行: Minnamurra Rainforest（野生琴鸟+瀑布）
+DESCRIPTION:上下环线约1.5h，野生琴鸟+Minnamurra Falls，入园A$8/车\n📍 地点: https://www.google.com/maps/search/?api=1&query=Minnamurra+Rainforest+Budderoo+National+Park+NSW
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260426T170000
+DTEND;TZID=Australia/Sydney:20260426T183000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-75@claude.code
+SUMMARY:🚗 驾车: Minnamurra → 悉尼
+DESCRIPTION:115km，Princes Hwy / F6，约1.5h\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Minnamurra+Rainforest+NSW&destination=Sydney+NSW
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260427T063000
+DTEND;TZID=Australia/Sydney:20260427T070000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-76@claude.code
+SUMMARY:🚗 驾车: 悉尼住处 → Dollar还车
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Sydney+CBD+NSW&destination=48+Ross+Smith+Ave+Mascot+NSW
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260427T070000
+DTEND;TZID=Australia/Sydney:20260427T071500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-77@claude.code
+SUMMARY:🚶🚕 交通: Dollar门店 → 悉尼机场T2
+DESCRIPTION:步行约15-20min或打车\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=48+Ross+Smith+Ave+Mascot+NSW&destination=Sydney+Airport+Terminal+2&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20260427T115000
+DTEND;TZID=Pacific/Auckland:20260427T164500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-78@claude.code
+SUMMARY:✈️ 航班: JQ223 (SYD → ZQN)
+DESCRIPTION:飞抵皇后镇
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260427T171500
+DTEND;TZID=Pacific/Auckland:20260427T183000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-79@claude.code
+SUMMARY:🚗 驾车: 皇后镇提车 → 酒店
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Queenstown+Airport+New+Zealand&destination=Queenstown+CBD+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260427T183000
+DTEND;TZID=Pacific/Auckland:20260427T200000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-80@claude.code
+SUMMARY:🚶 步行: Queenstown Trail
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Queenstown+CBD+New+Zealand&destination=Queenstown+Trail+New+Zealand&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260428T090000
+DTEND;TZID=Pacific/Auckland:20260428T120000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-81@claude.code
+SUMMARY:🪂 活动: NZONE 15000ft跳伞
+DESCRIPTION:📍 集合: 35 Shotover St, Queenstown\nhttps://www.google.com/maps/search/?api=1&query=NZONE+Skydive+35+Shotover+St+Queenstown
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260428T133000
+DTEND;TZID=Pacific/Auckland:20260428T140000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-82@claude.code
+SUMMARY:🚗 驾车: 皇后镇 → Arrowtown
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Queenstown+New+Zealand&destination=Arrowtown+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260428T140000
+DTEND;TZID=Pacific/Auckland:20260428T153000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-83@claude.code
+SUMMARY:🚶 步行: Arrowtown 秋叶漫步
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=Arrowtown+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260428T153000
+DTEND;TZID=Pacific/Auckland:20260428T163000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-84@claude.code
+SUMMARY:🚗 驾车: Arrowtown → Crown Range → 瓦纳卡
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Arrowtown+New+Zealand&destination=Wanaka+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260428T163000
+DTEND;TZID=Pacific/Auckland:20260428T173000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-85@claude.code
+SUMMARY:🚶 步行: Wanaka湖边 + 孤独的树
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Wanaka+New+Zealand&destination=That+Wanaka+Tree+New+Zealand&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260429T060000
+DTEND;TZID=Pacific/Auckland:20260429T130000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-86@claude.code
+SUMMARY:⛰️ 徒步: Roys Peak 冲顶
+DESCRIPTION:全程16km往返，1300m爬升\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Wanaka+New+Zealand&destination=Roys+Peak+Track+Wanaka&travelmode=driving
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260429T130000
+DTEND;TZID=Pacific/Auckland:20260429T133000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-87@claude.code
+SUMMARY:🚗 驾车: 停车场 → Wanaka镇上
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Roys+Peak+Track+Wanaka&destination=Wanaka+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260430T093000
+DTEND;TZID=Pacific/Auckland:20260430T130000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-88@claude.code
+SUMMARY:🚗 驾车: 瓦纳卡 → 但尼丁
+DESCRIPTION:Roys Peak后腿酸，09:30出发，经Cromwell, Clyde\n\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Wanaka+New+Zealand&destination=Dunedin+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260430T133000
+DTEND;TZID=Pacific/Auckland:20260430T143000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-89@claude.code
+SUMMARY:🚶 步行: Dunedin Railway Station
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Dunedin+Central&destination=Dunedin+Railway+Station&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260430T143000
+DTEND;TZID=Pacific/Auckland:20260430T150000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-90@claude.code
+SUMMARY:🚶 步行: The Octagon
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Dunedin+Railway+Station&destination=The+Octagon+Dunedin&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260430T150000
+DTEND;TZID=Pacific/Auckland:20260430T160000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-91@claude.code
+SUMMARY:🚶 步行: University of Otago
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=The+Octagon+Dunedin&destination=University+of+Otago+Dunedin&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260501T074500
+DTEND;TZID=Pacific/Auckland:20260501T083500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-92@claude.code
+SUMMARY:🚗 驾车: 但尼丁 → Baldwin St(顺路) → Taiaroa Head
+DESCRIPTION:途经Baldwin Street打卡世界最陡街道，再沿半岛东行\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Dunedin+Central&destination=Taiaroa+Head+Dunedin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260501T083500
+DTEND;TZID=Pacific/Auckland:20260501T101500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-93@claude.code
+SUMMARY:🚶 步行: Pilots Beach 免费海豹观察
+DESCRIPTION:免费！可近距离看海豹，等待10:30信天翁场次\n📍 地点: https://www.google.com/maps/search/?api=1&query=Pilots+Beach+Taiaroa+Head+Dunedin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260501T103000
+DTEND;TZID=Pacific/Auckland:20260501T120000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-94@claude.code
+SUMMARY:🦅 观赏: Royal Albatross Centre (10:30场)
+DESCRIPTION:秋冬首班10:30，Classic Tour约1h\n📍 地点: https://www.google.com/maps/search/?api=1&query=Royal+Albatross+Centre+Taiaroa+Head+Dunedin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260501T120000
+DTEND;TZID=Pacific/Auckland:20260501T125500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-95@claude.code
+SUMMARY:🚗 驾车: Taiaroa Head → Moeraki Boulders
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Taiaroa+Head+Dunedin&destination=Moeraki+Boulders+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260501T125500
+DTEND;TZID=Pacific/Auckland:20260501T135500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-96@claude.code
+SUMMARY:🚶 步行: Moeraki Boulders
+DESCRIPTION:莫拉基巨石\n📍 地点: https://www.google.com/maps/search/?api=1&query=Moeraki+Boulders+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260501T135500
+DTEND;TZID=Pacific/Auckland:20260501T142500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-97@claude.code
+SUMMARY:🚗 驾车: Moeraki Boulders → Oamaru
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Moeraki+Boulders+New+Zealand&destination=Oamaru+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260501T150000
+DTEND;TZID=Pacific/Auckland:20260501T163000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-98@claude.code
+SUMMARY:🚶 步行: Oamaru Victorian Precinct
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Oamaru+New+Zealand&destination=Oamaru+Victorian+Precinct+New+Zealand&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260501T163000
+DTEND;TZID=Pacific/Auckland:20260501T171000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-99@claude.code
+SUMMARY:交通: 前往蓝企鹅栖息地
+DESCRIPTION:5月日落17:40，17:10开始放人入场\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Oamaru+Victorian+Precinct+New+Zealand&destination=Oamaru+Blue+Penguin+Colony+New+Zealand&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260501T171000
+DTEND;TZID=Pacific/Auckland:20260501T190000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-100@claude.code
+SUMMARY:🐧 观赏: Oamaru Blue Penguin Colony
+DESCRIPTION:蓝企鹅归巢，18:00-18:30是主要入巢潮，等到18:30再离开！\n📍 地点: https://www.google.com/maps/search/?api=1&query=Oamaru+Blue+Penguin+Colony+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260502T080000
+DTEND;TZID=Pacific/Auckland:20260502T104500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-101@claude.code
+SUMMARY:🚗 驾车: Oamaru → Mt Cook Village
+DESCRIPTION:经Waitaki Valley\n\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Oamaru+New+Zealand&destination=Mount+Cook+Village+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260502T104500
+DTEND;TZID=Pacific/Auckland:20260502T113000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-102@claude.code
+SUMMARY:🚶 步行: Kea Point Trail
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Mount+Cook+Village+New+Zealand&destination=Kea+Point+Track+Mount+Cook&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260502T124500
+DTEND;TZID=Pacific/Auckland:20260502T154500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-103@claude.code
+SUMMARY:🚁 活动: Tasman Glacier Heli-Hike
+DESCRIPTION:直升机冰川徒步，NZ$946已付\n📍 集合: Mount Cook Glacier Guiding, Mount Cook Road, Mount Cook 7999\nhttps://www.google.com/maps/search/?api=1&query=Mount+Cook+Glacier+Guiding+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260503T073000
+DTEND;TZID=Pacific/Auckland:20260503T103000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-104@claude.code
+SUMMARY:⛰️ 徒步: Hooker Valley Track
+DESCRIPTION:往返10km，约3h\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Mount+Cook+Village+New+Zealand&destination=Hooker+Valley+Track+Mount+Cook&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260503T110000
+DTEND;TZID=Pacific/Auckland:20260503T121500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-105@claude.code
+SUMMARY:🚗 驾车: Mt Cook → Lake Tekapo
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Mount+Cook+Village+New+Zealand&destination=Lake+Tekapo+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260503T133000
+DTEND;TZID=Pacific/Auckland:20260503T141500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-106@claude.code
+SUMMARY:🚶 步行: Church of the Good Shepherd
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Lake+Tekapo+New+Zealand&destination=Church+of+the+Good+Shepherd+Tekapo&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260503T143000
+DTEND;TZID=Pacific/Auckland:20260503T160000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-107@claude.code
+SUMMARY:⛰️ 徒步: Mt John Observatory Walkway
+DESCRIPTION:1.5h往返，山顶Astro Café\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Lake+Tekapo+New+Zealand&destination=Mount+John+Observatory+Lake+Tekapo&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260504T083000
+DTEND;TZID=Pacific/Auckland:20260504T143000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-108@claude.code
+SUMMARY:🚗 驾车: Tekapo → Kaikoura
+DESCRIPTION:穿Canterbury平原\n\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Lake+Tekapo+New+Zealand&destination=Kaikoura+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260504T150000
+DTEND;TZID=Pacific/Auckland:20260504T170000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-109@claude.code
+SUMMARY:🚶 步行: Kaikoura Peninsula Walkway
+DESCRIPTION:看野生海豹，2h环线\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Kaikoura+New+Zealand&destination=Kaikoura+Peninsula+Walkway&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260505T063000
+DTEND;TZID=Pacific/Auckland:20260505T071500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-110@claude.code
+SUMMARY:🚤 Check-in: Whale Watch Kaikoura
+DESCRIPTION:06:30到达check-in，07:15开船前45min截止\n📍 集合: Whale Watch Kaikoura, Whaleway Station Rd\nhttps://www.google.com/maps/search/?api=1&query=Whale+Watch+Kaikoura+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260505T071500
+DTEND;TZID=Pacific/Auckland:20260505T104500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-111@claude.code
+SUMMARY:🚤 活动: Whale Watch Kaikoura (出海观鲸)
+DESCRIPTION:07:15出发，约3.5h\n📍 集合: Whale Watch Kaikoura, Whaleway Station Rd\nhttps://www.google.com/maps/search/?api=1&query=Whale+Watch+Kaikoura+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260505T123000
+DTEND;TZID=Pacific/Auckland:20260505T150000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-112@claude.code
+SUMMARY:🚗 驾车: Kaikoura → 基督城
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Kaikoura+New+Zealand&destination=Christchurch+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260505T150000
+DTEND;TZID=Pacific/Auckland:20260505T152500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-113@claude.code
+SUMMARY:🚗 驾车: 基督城 → Christchurch Gondola
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Christchurch+New+Zealand&destination=Christchurch+Gondola+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260505T153000
+DTEND;TZID=Pacific/Auckland:20260505T163000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-114@claude.code
+SUMMARY:🚠 缆车: Christchurch Gondola
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=Christchurch+Gondola+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260505T163000
+DTEND;TZID=Pacific/Auckland:20260505T165000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-115@claude.code
+SUMMARY:🚗 驾车: Gondola → 基督城市中心
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Christchurch+Gondola+New+Zealand&destination=Christchurch+City+Centre+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260505T165000
+DTEND;TZID=Pacific/Auckland:20260505T173000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-116@claude.code
+SUMMARY:🚶 步行: Cardboard Cathedral + New Regent St
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Christchurch+City+Centre+New+Zealand&destination=New+Regent+Street+Christchurch&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260505T180000
+DTEND;TZID=Pacific/Auckland:20260505T190000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-117@claude.code
+SUMMARY:🚶 步行: Riverside Market
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=New+Regent+Street+Christchurch&destination=Riverside+Market+Christchurch&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260506T073000
+DTEND;TZID=Pacific/Auckland:20260506T084500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-118@claude.code
+SUMMARY:🚗 驾车: 基督城 → Akaroa
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Christchurch+New+Zealand&destination=Akaroa+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260506T090000
+DTEND;TZID=Pacific/Auckland:20260506T110000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-119@claude.code
+SUMMARY:🚶 步行: Akaroa 法式小镇漫步
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Akaroa+Wharf+New+Zealand&destination=Akaroa+Lighthouse+New+Zealand&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260506T114500
+DTEND;TZID=Pacific/Auckland:20260506T130000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-120@claude.code
+SUMMARY:🚗 驾车: Akaroa → 基督城
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Akaroa+New+Zealand&destination=Christchurch+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260506T131500
+DTEND;TZID=Pacific/Auckland:20260506T143000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-121@claude.code
+SUMMARY:🚶 步行: Hagley Park + Botanic Gardens
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Christchurch+City+Centre+New+Zealand&destination=Christchurch+Botanic+Gardens&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260506T143000
+DTEND;TZID=Pacific/Auckland:20260506T153000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-122@claude.code
+SUMMARY:🚶 步行: Canterbury Museum
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Christchurch+Botanic+Gardens&destination=Canterbury+Museum+Christchurch&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260506T153000
+DTEND;TZID=Pacific/Auckland:20260506T160000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-123@claude.code
+SUMMARY:🚶 步行: Arts Centre + Cathedral Square
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Canterbury+Museum+Christchurch&destination=Cathedral+Square+Christchurch&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260506T160000
+DTEND;TZID=Pacific/Auckland:20260506T163000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-124@claude.code
+SUMMARY:🚗 驾车: 市区 → CHC机场还车
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Christchurch+City+Centre+New+Zealand&destination=Christchurch+Airport+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260506T170000
+DTEND;TZID=Pacific/Auckland:20260506T171000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-125@claude.code
+SUMMARY:🚕 Uber: CHC机场 → 机场酒店
+DESCRIPTION:📍 出发: Christchurch Airport（具体酒店到达后自行导航）\nhttps://www.google.com/maps/search/?api=1&query=Christchurch+Airport+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260507T044500
+DTEND;TZID=Pacific/Auckland:20260507T050000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-126@claude.code
+SUMMARY:🚶 交通: 酒店 → CHC机场
+DESCRIPTION:📍 目的地: https://www.google.com/maps/search/?api=1&query=Christchurch+Airport+New+Zealand
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Pacific/Auckland:20260507T060000
+DTEND;TZID=Australia/Brisbane:20260507T080500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-127@claude.code
+SUMMARY:✈️ 航班: NZ205 (CHC → BNE)
+DESCRIPTION:飞抵布里斯班
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260507T103000
+DTEND;TZID=Australia/Brisbane:20260507T113000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-128@claude.code
+SUMMARY:🚗 驾车: BNE机场提车 → 黄金海岸
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Brisbane+Airport+Queensland&destination=Gold+Coast+Queensland
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260507T130000
+DTEND;TZID=Australia/Brisbane:20260507T134500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-129@claude.code
+SUMMARY:🚗 驾车: 黄金海岸 → Springbrook NP
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Gold+Coast+Queensland&destination=Springbrook+National+Park+Queensland
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260507T134500
+DTEND;TZID=Australia/Brisbane:20260507T143000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-130@claude.code
+SUMMARY:🚶 步行: Natural Bridge
+DESCRIPTION:荧光虫洞穴\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Springbrook+National+Park+Queensland&destination=Natural+Bridge+Springbrook+Queensland&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260507T144500
+DTEND;TZID=Australia/Brisbane:20260507T153000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-131@claude.code
+SUMMARY:🚶 步行: Best of All Lookout
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Natural+Bridge+Springbrook+Queensland&destination=Best+of+All+Lookout+Springbrook+Queensland&travelmode=driving
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260507T154500
+DTEND;TZID=Australia/Brisbane:20260507T163000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-132@claude.code
+SUMMARY:🚶 步行: Purling Brook Falls
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Best+of+All+Lookout+Springbrook+Queensland&destination=Purling+Brook+Falls+Springbrook+Queensland&travelmode=driving
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260507T170000
+DTEND;TZID=Australia/Brisbane:20260507T174000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-133@claude.code
+SUMMARY:🚗 驾车: Springbrook → 黄金海岸
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Springbrook+National+Park+Queensland&destination=Surfers+Paradise+Gold+Coast
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260508T083000
+DTEND;TZID=Australia/Brisbane:20260508T100000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-134@claude.code
+SUMMARY:🚶 步行: Surfers Paradise
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=Surfers+Paradise+Gold+Coast+Queensland
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260508T100000
+DTEND;TZID=Australia/Brisbane:20260508T110000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-135@claude.code
+SUMMARY:🏙️ 观景: SkyPoint Observation Deck
+DESCRIPTION:Q1大厦77层，上午顺光看海\n📍 地点: https://www.google.com/maps/search/?api=1&query=SkyPoint+Observation+Deck+Surfers+Paradise+Queensland
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260508T110000
+DTEND;TZID=Australia/Brisbane:20260508T113000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-136@claude.code
+SUMMARY:🚗 驾车: Surfers Paradise → Burleigh Heads
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Surfers+Paradise+Gold+Coast&destination=Burleigh+Heads+Gold+Coast
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260508T113000
+DTEND;TZID=Australia/Brisbane:20260508T130000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-137@claude.code
+SUMMARY:🚶 步行: Burleigh Beach (午餐)
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=Burleigh+Beach+Gold+Coast+Queensland
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260508T130000
+DTEND;TZID=Australia/Brisbane:20260508T143000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-138@claude.code
+SUMMARY:🚶 步行: Burleigh Heads NP 海岬步道
+DESCRIPTION:1h环线步道\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Burleigh+Beach+Gold+Coast&destination=Burleigh+Heads+National+Park+Queensland&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260508T143000
+DTEND;TZID=Australia/Brisbane:20260508T150000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-139@claude.code
+SUMMARY:🚗 驾车: Burleigh Heads → Coolangatta
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Burleigh+Heads+Gold+Coast&destination=Coolangatta+Gold+Coast
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260508T150000
+DTEND;TZID=Australia/Brisbane:20260508T163000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-140@claude.code
+SUMMARY:🚶 步行: Snapper Rocks + Greenmount Hill
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Coolangatta+Gold+Coast&destination=Snapper+Rocks+Coolangatta+Queensland&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260508T163000
+DTEND;TZID=Australia/Brisbane:20260508T170000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-141@claude.code
+SUMMARY:🚶 步行: Kirra Beach (日落)
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Snapper+Rocks+Coolangatta+Queensland&destination=Kirra+Beach+Gold+Coast+Queensland&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260509T083000
+DTEND;TZID=Australia/Brisbane:20260509T093000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-142@claude.code
+SUMMARY:🚗 驾车: 黄金海岸 → Lone Pine
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Gold+Coast+Queensland&destination=Lone+Pine+Koala+Sanctuary+Brisbane
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260509T093000
+DTEND;TZID=Australia/Brisbane:20260509T120000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-143@claude.code
+SUMMARY:🐨 步行: Lone Pine Koala Sanctuary
+DESCRIPTION:考拉保护区\n📍 地点: https://www.google.com/maps/search/?api=1&query=Lone+Pine+Koala+Sanctuary+Brisbane+Queensland
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260509T120000
+DTEND;TZID=Australia/Brisbane:20260509T123000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-144@claude.code
+SUMMARY:🚗 驾车: Lone Pine → Mt Coot-tha Lookout
+DESCRIPTION:盘山路40km/h限速，实际25min\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Lone+Pine+Koala+Sanctuary+Brisbane&destination=Mount+Coot-tha+Lookout+Brisbane
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260509T123000
+DTEND;TZID=Australia/Brisbane:20260509T131500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-145@claude.code
+SUMMARY:🏙️ 观景: Mt Coot-tha Lookout
+DESCRIPTION:俯瞰布里斯班全景\n📍 地点: https://www.google.com/maps/search/?api=1&query=Mount+Coot-tha+Lookout+Brisbane+Queensland
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260509T131500
+DTEND;TZID=Australia/Brisbane:20260509T134500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-146@claude.code
+SUMMARY:🚗 驾车: Mt Coot-tha → South Bank Parklands
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Mount+Coot-tha+Lookout+Brisbane&destination=South+Bank+Parklands+Brisbane
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260509T134500
+DTEND;TZID=Australia/Brisbane:20260509T154500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-147@claude.code
+SUMMARY:🚶 步行: South Bank Parklands (午餐)
+DESCRIPTION:📍 地点: https://www.google.com/maps/search/?api=1&query=South+Bank+Parklands+Brisbane+Queensland
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260509T154500
+DTEND;TZID=Australia/Brisbane:20260509T164500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-148@claude.code
+SUMMARY:🚶 步行: Story Bridge + Eagle Street Pier
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=South+Bank+Parklands+Brisbane&destination=Story+Bridge+Brisbane+Queensland&travelmode=walking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260509T164500
+DTEND;TZID=Australia/Brisbane:20260509T171500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-149@claude.code
+SUMMARY:🚗 驾车: 市区游览结束 → 酒店 Check-in
+DESCRIPTION:放行李\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Story+Bridge+Brisbane&destination=Brisbane+CBD+Queensland
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260509T183000
+DTEND;TZID=Australia/Brisbane:20260509T190000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-150@claude.code
+SUMMARY:🚗 驾车: 酒店 → Eat Street Northshore
+DESCRIPTION:🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Brisbane+CBD+Queensland&destination=Eat+Street+Northshore+Brisbane
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260509T190000
+DTEND;TZID=Australia/Brisbane:20260509T213000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-151@claude.code
+SUMMARY:🚶 步行: Eat Street Northshore 庆祝晚餐
+DESCRIPTION:有免费停车场\n📍 地点: https://www.google.com/maps/search/?api=1&query=Eat+Street+Northshore+Brisbane+Queensland
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260510T080000
+DTEND;TZID=Australia/Brisbane:20260510T084500
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-152@claude.code
+SUMMARY:🚗 驾车: 酒店 → BNE机场还车
+DESCRIPTION:离境\n\n🗺️ 导航: https://www.google.com/maps/dir/?api=1&origin=Brisbane+CBD+Queensland&destination=Brisbane+Airport+Queensland
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Brisbane:20260510T112000
+DTEND;TZID=Australia/Brisbane:20260510T170000
+DTSTAMP:20260415T180000Z
+UID:2026-trip-v7-153@claude.code
+SUMMARY:✈️ 航班: PR222 (BNE → MNL)
+DESCRIPTION:圆满离境
+END:VEVENT
+END:VCALENDAR

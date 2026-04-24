@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(C:/Users/22601/anaconda3/python.exe)",
+      "WebSearch",
+      "Bash(dir \"F:\\\\BaiduSyncdisk\\\\李云帆简历原件\\\\行程规划\\\\2026大洋洲20天\\\\机票行程单\" /s /b)",
+      "Bash(grep -n \"Day 10\\\\|Day 13\\\\|NZONE\\\\|Fox Glacier跳伞\\\\|Shotover\\\\|Ben Lomond\\\\|同行期小计\\\\|旅途总计\\\\|A\\\\$8,7\\\\|A\\\\$9,6\\\\|A\\\\$385\\\\|A\\\\$711\" \"F:/BaiduSyncdisk/李云帆简历原件/行程规划/2026大洋洲20天/行程完整版v3.md\")",
+      "Bash(python3 -c \"print\\(165+350+360+694+372+341+326+240\\)\")",
+      "Bash(powershell -command \"Get-Content 'F:\\\\BaiduSyncdisk\\\\李云帆简历原件\\\\行程规划\\\\2026大洋洲20天\\\\行程修订稿v2.md' | Measure-Object -Line\")",
+      "Bash(powershell -command \"Get-Content 'F:\\\\BaiduSyncdisk\\\\李云帆简历原件\\\\行程规划\\\\2026大洋洲20天\\\\已废弃\\\\行程完整版v3.md' | Measure-Object -Line\")",
+      "Bash(python3 -)",
+      "Bash(python -)",
+      "WebFetch(domain:search.bilibili.com)",
+      "WebFetch(domain:www.bilibili.com)",
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:wandervlogs.com)",
+      "WebFetch(domain:bubugoaround.com)",
+      "WebFetch(domain:mrmrsellery.com)",
+      "WebFetch(domain:afterthirtytravel.com)",
+      "WebFetch(domain:afterthirtytravel.tw)",
+      "WebFetch(domain:minahaha.com)",
+      "WebFetch(domain:www.bring-you.info)",
+      "WebFetch(domain:playboard.co)",
+      "WebFetch(domain:space.bilibili.com)",
+      "mcp__scheduled-tasks__create_scheduled_task",
+      "Bash(ls -la \"F:/BaiduSyncdisk/李云帆简历原件/行程规划/2026大洋洲20天/景点导览/\"*Day9* \"F:/BaiduSyncdisk/李云帆简历原件/行程规划/2026大洋洲20天/景点导览/\"*Day11*)",
+      "Bash(Day19\")",
+      "mcp__google-maps__maps_distance_matrix",
+      "mcp__google-maps__maps_search_places",
+      "mcp__google-maps__maps_place_details",
+      "mcp__fetch__fetch",
+      "mcp__currency-conversion__get_latest_rates",
+      "mcp__google-maps__maps_directions",
+      "Bash(python3)",
+      "Bash(python3 -c ' *)",
+      "Read(//Users/slphc/.claude/projects/**)",
+      "Read(//Users/slphc/.claude/plans/**)",
+      "Read(//Users/slphc/.claude/**)"
+    ]
+  }
+}
