@@ -85,9 +85,9 @@
 ---
 
 
-## Day 8 · 4/26 (Tue) — 🚗 悉尼南线 MX5
+## Day 8 · 4/26 (Tue) — 🚗 悉尼南线 Mustang GT
 
-**必须先把大件寄在机场宜必思前台（MX-5 后备箱装不下；不成就改 T2） → Sea Cliff / Kiama / Gerringong / Minnamurra 都放宽一点 → Kiama Harbour 晚餐后再回**
+**先把大件寄在机场宜必思前台 → 实际提到的是 Ford Mustang GT V8 5.0L → Sea Cliff / Kiama / Gerringong / Minnamurra 都放宽一点 → Kiama Harbour 晚餐后再回**
 
 🗺️ [Dollar Mascot（提车）→ Sea Cliff Bridge → Symbio → Kiama → Gerringong → Minnamurra Rainforest → 悉尼](https://www.google.com/maps/dir/48+Ross+Smith+Ave+Mascot+NSW/Sea+Cliff+Bridge+Coalcliff+NSW/Symbio+Wildlife+Zoo+Helensburgh+NSW/Kiama+NSW/Gerringong+NSW/Minnamurra+Rainforest+Budderoo+National+Park+NSW/Sydney+NSW/)
 
@@ -95,7 +95,7 @@
 
 ## Day 9a · 4/27 (Wed) — ✈️ 悉尼出发侧
 
-**还 MX5 → 取回寄存行李 → T2 候机**
+**还 Mustang GT → 取回寄存行李 → T2 候机**
 
 🗺️ [Dollar Mascot（还车）→ Sydney Airport Terminal 2](https://www.google.com/maps/dir/48+Ross+Smith+Ave+Mascot+NSW/Sydney+Airport+Terminal+2+NSW/)
 
