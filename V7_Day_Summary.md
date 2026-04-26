@@ -103,7 +103,7 @@
 
 ## Day 9b · 4/27 (Wed) — ✈️ 皇后镇抵达侧
 
-**落地皇后镇，提车入住 Adventure Queenstown Hostel，湖边漫步**
+**落地皇后镇，提车入住 Adventure Queenstown Hostel；北京时间 19:00（NZ 23:00）酒店内面试**
 
 🗺️ [Queenstown Airport → Queenstown CBD → Queenstown Lakefront](https://www.google.com/maps/dir/Queenstown+Airport+New+Zealand/Queenstown+CBD+New+Zealand/Queenstown+Lakefront+New+Zealand/)
 
