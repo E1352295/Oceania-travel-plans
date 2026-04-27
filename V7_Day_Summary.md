@@ -103,7 +103,7 @@
 
 ## Day 9b · 4/27 (Wed) — ✈️ 皇后镇抵达侧
 
-**落地皇后镇，提车入住 Adventure Queenstown Hostel；北京时间 19:00（NZ 23:00）酒店内面试**
+**落地皇后镇，提车入住 Adventure Queenstown Hostel；北京时间 19:00（NZ 23:00）酒店内面试；约 14/4°C，晚间要加外套**
 
 🗺️ [Queenstown Airport → Queenstown CBD → Queenstown Lakefront](https://www.google.com/maps/dir/Queenstown+Airport+New+Zealand/Queenstown+CBD+New+Zealand/Queenstown+Lakefront+New+Zealand/)
 
@@ -111,7 +111,7 @@
 
 ## Day 10 · 4/28 (Thu) — 🪂 跳伞 + 阿罗镇 + 瓦纳卡
 
-**15000ft 跳伞 → 秋叶阿罗镇 → Crown Range → theBothy Wanaka**
+**15000ft 跳伞 → 秋叶阿罗镇 → Crown Range → theBothy Wanaka；约 15/9°C，跳伞和翻山都要防风**
 
 🗺️ [NZONE（跳伞）→ Arrowtown → Crown Range 顶 → Wanaka → That Wanaka Tree](https://www.google.com/maps/dir/NZONE+Skydive+35+Shotover+St+Queenstown+New+Zealand/Arrowtown+New+Zealand/Crown+Range+Summit+New+Zealand/Wanaka+New+Zealand/That+Wanaka+Tree+Wanaka+New+Zealand/)
 
@@ -119,7 +119,7 @@
 
 ## Day 11 · 4/29 (Fri) — ⛰️ Roys Peak 冲顶
 
-**16km 往返，1300m 爬升，湖顶日出；Wanaka 第2晚凭证暂未见**
+**16km 往返，1300m 爬升，湖顶日出；约 13/4°C 有雨，Roys Peak 按防水分层穿；Wanaka 第2晚凭证暂未见**
 
 🗺️ [Wanaka → Roys Peak 登山口 → Wanaka（返回）](https://www.google.com/maps/dir/Wanaka+New+Zealand/Roys+Peak+Track+Wanaka+New+Zealand/Wanaka+New+Zealand/)
 
@@ -127,7 +127,7 @@
 
 ## Day 12 · 4/30 (Sat) — 🚗 瓦纳卡 → 但尼丁
 
-**9:30 慢出发，过 Cromwell，下午逛火车站，住 On Top Backpackers**
+**9:30 慢出发，过 Cromwell，下午逛火车站，住 On Top Backpackers；但尼丁约 14/6°C，早晚凉**
 
 🗺️ [Wanaka → Cromwell → 但尼丁火车站 → The Octagon → University of Otago](https://www.google.com/maps/dir/Wanaka+New+Zealand/Cromwell+New+Zealand/Dunedin+Railway+Station+New+Zealand/The+Octagon+Dunedin+New+Zealand/University+of+Otago+Dunedin+New+Zealand/)
 
@@ -135,7 +135,7 @@
 
 ## Day 13 · 5/1 (Sun) — 🦅 奥塔哥半岛 + 奥马鲁企鹅
 
-**Baldwin St → 信天翁 → 莫拉基巨石 → Empire Hotel Backpackers + 蓝企鹅**
+**Baldwin St → 信天翁 → 莫拉基巨石 → Empire Hotel Backpackers + 蓝企鹅；奥马鲁约 15/4°C，企鹅段要防风保暖**
 
 🗺️ [但尼丁市区 → Baldwin Street → Pilots Beach → 皇家信天翁 → Moeraki Boulders → Oamaru Victorian Precinct → 蓝企鹅栖息地](https://www.google.com/maps/dir/Dunedin+Central+New+Zealand/Baldwin+Street+Dunedin+New+Zealand/Pilots+Beach+Taiaroa+Head+New+Zealand/Royal+Albatross+Centre+Taiaroa+Head+New+Zealand/Moeraki+Boulders+New+Zealand/Oamaru+Victorian+Precinct+New+Zealand/Oamaru+Blue+Penguin+Colony+New+Zealand/)
 
